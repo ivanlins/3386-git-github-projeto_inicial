@@ -135,6 +135,6 @@ button:disabled {
     }
 
     .container__informacoes {
-         padding: 1rem /*adicionando ponto e virgula corretamente */
+         padding: 1rem /*adicionando ponto e virgula corretamente */;
     }
 }
