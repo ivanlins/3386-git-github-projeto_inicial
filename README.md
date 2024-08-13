@@ -15,9 +15,10 @@ O jogo desafia o usuário a adivinhar um número secreto entre 1 e 10. O usuári
 
 ## Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript
+- HTML;
+- CSS;
+- JavaScript;
+- React;
 
 ## Estrutura do Projeto
 
